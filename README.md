@@ -24,3 +24,7 @@ USB DAC Wave Generate utility tool.
 
 ## [USBHID](https://github.com/Synwit-Co-Ltd/USBHID)
 USB HID debug utility tool.
+
+# Script Language Support
+## [micropython](https://github.com/Synwit-Co-Ltd/micropython)
+MicroPython porting to SWM320.
