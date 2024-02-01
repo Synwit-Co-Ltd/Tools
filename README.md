@@ -11,10 +11,6 @@ Program MCU through UART.
 ## [JFlash](https://github.com/Synwit-Co-Ltd/JFlash)
 Program MCU through JFlash.
 
-# Code Generation Tools
-## [SWMTool](https://github.com/Synwit-Co-Ltd/SWMTool)
-CAN, SDRAM Configure Code Generation tool.
-
 # USB Debug Tools
 ## [USBADC](https://github.com/Synwit-Co-Ltd/USBADC)
 USB ADC Sample and Display utility tool.
@@ -25,6 +21,9 @@ USB DAC Wave Generate utility tool.
 ## [USBHID](https://github.com/Synwit-Co-Ltd/USBHID)
 USB HID debug utility tool.
 
-# Script Language Support
-## [micropython](https://github.com/Synwit-Co-Ltd/micropython)
-MicroPython porting to SWM320.
+# Other Tools
+## [SWMTool](https://github.com/Synwit-Co-Ltd/SWMTool)
+CAN, SDRAM Configure Code Generation tool.
+
+## [Scripts](https://github.com/Synwit-Co-Ltd/Scripts)
+Some scripts for file processing.
