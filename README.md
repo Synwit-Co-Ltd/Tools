@@ -2,8 +2,8 @@
 ## [DAPLink](https://github.com/Synwit-Co-Ltd/DAPLink)
 DAPLink porting to SWM341.
 
-## [SWMProg](https://github.com/Synwit-Co-Ltd/SWMProg)
-Program MCU through JLink or DAPLink.
+## [DAPProg](https://github.com/Synwit-Co-Ltd/DAPProg)
+Offline SWD Programmer for Cortex-M Core MCU.
 
 ## [SWMISP](https://github.com/Synwit-Co-Ltd/SWMISP)
 Program MCU through UART.
